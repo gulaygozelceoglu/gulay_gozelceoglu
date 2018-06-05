@@ -1,1 +1,1 @@
-# gulay_gozelceoglu
+Sitede Alev Hocamýzýn site templateini kullandýk. Banner ve footer kýsmýnda siyah zemin üzerine beyaz yazý kullandýk. Banner kýsmýnda Ad Soyad, Hacettepe Üniversitesi, Bilgisayar ve Öðretim Teknolojileri Eðitimi bilgilerini verdim. Ýndex sayfasýnda bir adet div bulunmakta ve burada web terminolojisinin ne anlama geldiði konusunda bilgiler verdim. Sað üst tarafta bulunan menude tüm kavramlar ve videolar bulunmaktadýr. Alt tarafta bulunan footer kýsmýnda ise sitenin kime sahip olduðuna dair bilgiler verdim.
